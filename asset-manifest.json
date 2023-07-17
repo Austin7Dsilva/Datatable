@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Datatable/static/css/main.15006f2d.css",
+    "main.js": "/Datatable/static/js/main.24ced73d.js",
+    "static/js/787.0230134b.chunk.js": "/Datatable/static/js/787.0230134b.chunk.js",
+    "index.html": "/Datatable/index.html",
+    "main.15006f2d.css.map": "/Datatable/static/css/main.15006f2d.css.map",
+    "main.24ced73d.js.map": "/Datatable/static/js/main.24ced73d.js.map",
+    "787.0230134b.chunk.js.map": "/Datatable/static/js/787.0230134b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15006f2d.css",
+    "static/js/main.24ced73d.js"
+  ]
+}
